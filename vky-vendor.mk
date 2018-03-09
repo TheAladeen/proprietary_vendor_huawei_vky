@@ -16,6 +16,4 @@
 
 $(call inherit-product, vendor/huawei/vky/vky-vendor-charger.mk)
 
-$(call inherit-product, vendor/huawei/vky/vky-vendor-su.mk)
-
 $(call inherit-product, vendor/huawei/vky/vky-vendor-vndk.mk)

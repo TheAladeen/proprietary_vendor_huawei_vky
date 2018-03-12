@@ -16,9 +16,6 @@
 
 $(call inherit-product, vendor/huawei/vky/vky-vendor-blobs.mk)
 
-<<<<<<< HEAD
 $(call inherit-product, vendor/huawei/vky/vky-vendor-charger.mk)
 
-=======
->>>>>>> 259bf01511d0039e119c951a3ab694a7bdb6873d
 $(call inherit-product, vendor/huawei/vky/vky-vendor-vndk.mk)
